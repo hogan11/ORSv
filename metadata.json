@@ -1,0 +1,5 @@
+{
+  "name": "Opportunity Rings Simulator",
+  "description": "A geospatial simulation tool for CIT/DRS route optimization, visualizing revenue density and opportunity rings in Dallas and Paris.",
+  "requestFramePermissions": []
+}
